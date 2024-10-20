@@ -3,4 +3,9 @@
 
 Things to make better use of coralnet
 
-currectly downloadv2.py downloads all images from coralnet link
+currently image_downloader.py downloads 1000 images from coralnet link input
+
+Need to remember to input the location of the chromedriver
+Need to remember to input the correct link
+
+1000 can be changed to any number
