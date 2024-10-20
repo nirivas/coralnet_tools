@@ -9,3 +9,6 @@ Need to remember to input the location of the chromedriver
 Need to remember to input the correct link
 
 1000 can be changed to any number
+
+
+organize images extracts names of images and creates folders for each category
