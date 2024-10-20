@@ -12,3 +12,7 @@ Need to remember to input the correct link
 
 
 organize images extracts names of images and creates folders for each category
+
+to use:
+
+> python organize_images.py 'path to folder with images' 'path to where new folders and images will go'
